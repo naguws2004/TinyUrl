@@ -1,0 +1,20 @@
+{
+  "name": "my-nodejs-app",
+  "version": "1.0.0",
+  "description": "A Node.js application that demonstrates basic functionality.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.11.5",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "valid-url": "^1.0.9"
+  }
+}
